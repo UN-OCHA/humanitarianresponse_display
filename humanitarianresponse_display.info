@@ -7,7 +7,6 @@ dependencies[] = features
 dependencies[] = taxonomy
 dependencies[] = title
 features[features_api][] = api:1
-features[field][] = taxonomy_term-display_properties-description_field
 features[field][] = taxonomy_term-display_properties-name_field
 features[taxonomy][] = display_properties
 l10n path = http://localize.humanitarianresponse.info/sites/localize.humanitarianresponse.info/files/l10n_packager/%core/%project/%project-%release.%language.po
